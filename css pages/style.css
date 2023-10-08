@@ -1,0 +1,98 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.imgcodo{
+    width: 12%;
+    height: 12%;
+    color: white;
+}
+.colorletra{
+    color: white;
+}
+.bold-text {
+    font-weight: bold;
+}
+.position{
+    text-align: right;
+    margin-top: 0%;
+}
+.position-text{
+    text-align: right;
+    margin-top: 0%;
+    margin-top: 10%;
+    font-size: 110%;
+}
+h5{
+    font-weight: bold;
+    font-size: 200%;
+    text-align: right;
+    margin-top: 0%;
+    margin-top: 10%;
+}
+.dark-image {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: black;
+    opacity: 0.5;
+  
+}
+.position-cards{
+    display: flex;
+    justify-content: center
+}
+.titulo{
+    text-align: center;
+    font-size: 120%;
+}
+span{
+    font-size: 170%
+}
+.card-title-cards{
+    font-size: 120%;
+    text-align: center;
+}
+.card{
+    margin: 1%;
+}
+.imghonolulu{
+    width: 50%;
+    height: 50%;
+}
+.imghonolulu1{
+    background-color:#615C5B;
+    display: flex;
+    flex-direction: row;
+}
+.textooct{
+    color: white;
+    text-align: left;
+    margin: 2%;
+}
+.honolulu{
+    font-size:large;
+    color: white;
+}
+.texthonolulu{
+    display: flex;
+    flex-direction: column;
+    margin: 2%;
+}
+.botonenviar{
+    text-align: center;
+}
+.subtexto{
+    text-align: center;
+}
+.footer{
+    display: flex;
+    background-color: #1C4778;
+    justify-content: space-evenly;
+    padding: 3%;
+    margin-top: 3%;
+    color: white;
+}
